@@ -2,5 +2,4 @@ cvzone==1.6.1
 numpy==2.2.2
 opencv_contrib_python==4.11.0.86
 opencv_python==4.11.0.86
-pynput==1.7.7
 streamlit==1.42.0
