@@ -5,3 +5,5 @@ opencv_python==4.11.0.86
 streamlit==1.42.0
 opencv-python-headless
 mediapipe
+cvzone
+streamlit
