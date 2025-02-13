@@ -2,9 +2,12 @@ cvzone==1.6.1
 numpy==2.2.2
 opencv_contrib_python==4.11.0.86
 opencv_python==4.11.0.86
-streamlit==1.42.0
 opencv-python-headless==4.8.0.74
-mediapipe
-streamlit
 cvzone==1.5.6
+mediapipe==0.10.0
+numpy==1.23.5
+streamlit==1.26.0
+
+
+
 
